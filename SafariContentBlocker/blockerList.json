@@ -1,0 +1,19 @@
+[
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "www.google.com"
+        }
+    },
+    {
+        "action": {
+            "type": "css-display-none",
+            "selector": "#home-icon"
+        },
+        "trigger": {
+            "url-filter": ".*"
+        }
+    }
+]
