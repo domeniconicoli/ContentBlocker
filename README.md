@@ -1,7 +1,9 @@
 # ContentBlocker
-How to Make a Movie Reviews Sentiment Analyzer in Swift. Use machine learning to predict users movies reviews sentiment
+How To Create a Safari Ad Blocker For iOS Using Swift
 
 ## Introduction
-In this article, starting from scratch, we will create an iOS app and a machine learning model that is capable of understanding people sentiment about a movie, just from reviews text. Do you think is hard? Thanks to the last Apple ML framework it will take only 10 minutes!
+Let’s be honest: We see a lot of advertising every day in our daily life. On average, we see 5,000 ads per day, and if you think that is too much, try to think of the last time you saw an ad. It was probably five minutes ago.
+Nowadays ads are everywhere: City cardboards, LED maxi screens, newspapers, radios, the internet, and mobile apps are just some of the main ways advertisers reach consumers.
+In order to mitigate this problem (at least on Safari), in iOS 9, Apple added the possibility to use a content blocker.
 
-## Full article [HERE](https://towardsdatascience.com/how-to-make-a-movie-reviews-sentiment-analyzer-in-swift-ab659fabaecf)
+## Full article [HERE](https://medium.com/better-programming/how-to-create-a-safari-ad-blocker-for-ios-using-swift-8dda420ed3b7)
